@@ -1,7 +1,7 @@
 ---
-title: "BM330 Classic Papers in Microbiology Journal Club"
+title: "The Anatomy of a Scientific Poster"
 author: "Morgan Feeney"
-date: "2022 Presentation"
+date: "2021 Presentation"
 output: 
   bookdown::html_document2:
     toc: true
@@ -24,7 +24,13 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Introduction
 
-text here
+Posters are a common way to communicate science at conferences and other venues. They are often printed on a single large sheet of paper (e.g., A0), but size requirements vary between conferences.
+
+You should use your poster as a visual aid to presenting your work - it should have the key figures, results, etc. that you need to show your audience to convince them of the main findings of your work.
+
+At the same time, however, your poster should be able to stand alone: a person should be able to look at it, without you being there to explain it, and still understand the work that you have done.
+
+However, a poster is not a manuscript, and you cannot simply copy/paste figures and text from your thesis onto a poster template. A poster is primarily about visual communication, so text should be kept at a minimum and figures should be kept simple and clear.
 
 <center>
 ```{r poster, echo=FALSE, fig.cap="A poster is not a manuscript, from [PhD Comics](http://phdcomics.com/comics.php)."}
@@ -32,45 +38,45 @@ knitr::include_graphics("images/Jorge_Cham_on_posters.jpg")
 ```
 </center>
 
-# The Anatomy of a Scientific Talk
+# The Anatomy of a Scientific Poster
 
 Every poster is different, but all posters should contain the following elements in some form. Boiled down to the essentials, the poster should inform your audience of why your research is important, the aims/hypothesis of your work, what experiments were done and how, and the overall conclusions/"take-home messages". 
 
-
+There are many possible poster designs (just one example shown below), but it is common to use subheadings to divide the information on a poster, and to direct and focus the reader's attention. 
 
 ```{r template, echo=FALSE, fig.cap="Example poster template, from [Template Lab](https://templatelab.com/research-posters/)."}
 knitr::include_graphics("images/research-poster-template.jpg")
 ```
 
-## Content
+## Title
 
 - A short description of what the poster is about. May be a declarative statement of what the research has found, or a descriptive statement of what the research is about.   
 
-## Data (Figures and Tables, mostly)
+## Authors
 
 - Authors are usually listed directly below the title
 - Everyone who has contributed to the work should be listed
 - The person who prepared the poster (you) should be listed first, and the supervisor last
 - Institutional affiliations should also be listed (e.g., University of Strathclyde)
 
-## Aesthetics
+## Introduction
 
 - Gives enough background for the reader to understand your research question and why it is important. 
 - Clearly sets out the aims and hypothesis for the work
 
-# Preparing slides and delivering a talk
+## Materials and Methods
 
 - Gives enough information for the reader to understand how the experiments were done
 - Gives key parameters for the methods done, but not necessarily as detailed as a paper/thesis
 - Often uses a figure/flow diagram to illustrate methods
 
-# Feedback
+## Results
 
 - Includes key results that answer the stated hypothesis/research aims
 - Uses subheadings to break into subsections as necessary
 - Uses graphs or charts where necessary to illustrate key points
 
-# FAQ
+## Conclusions and Significance
 
 - 1-3 clear, concise "take home" messages for your audience
 - Usually relating back to the aims/hypothesis defined earlier

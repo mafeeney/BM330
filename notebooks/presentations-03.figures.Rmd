@@ -170,3 +170,90 @@ It is often tempting to present *all* of the data (it might be useful! you gener
 - Rougier NP, Droettboom M, Bourne PE (2014) Ten Simple Rules for Better Figures. PLOS Computational Biology 10(9): e1003833. https://doi.org/10.1371/journal.pcbi.1003833
 
 - Jambor H, Antonietti A, Alicea B, Audisio TL, Auer S, et al. (2021) Creating clear and informative image-based figures for scientific publications. PLOS Biology 19(3): e3001161. https://doi.org/10.1371/journal.pbio.3001161
+
+
+
+
+
+
+### Figures, Graphs, Tables
+
+- You will want to include data on your poster to support your final conclusions/"take-home messages"; these data may be presented in different forms, including figures, graphs, or tables.
+
+<div id="note">
+In addition to using figures to present your data, consider using figures in the introduction, materials & methods, and conclusions. 
+
+- A methods figure (a flow chart illustrating the steps done in an experiment) is a concise and clear way of presenting how an experiment was done.
+- Model figures (e.g., blobograms that illustrate biological pathways) can be concise and clear ways to summarize the state of a field (what is currently known) and to illustrate your contribution (what you have added to the field).
+
+<center>
+```{r methods-fig,  out.width="60%", out.height="60%", echo=FALSE, fig.cap="An example of a methods figure (in this case, for Southern blotting [from NIH](https://www.genome.gov/genetics-glossary/Southern-Blot))"}
+knitr::include_graphics("images/southern_blot.jpg")
+```
+</center>
+
+</div>
+
+- Consider the best way to present your data (easiest way for your audience to understand it). 
+  - Generally speaking, visual representations (images, graphs, etc.) are better than tables or text for a poster presentation.
+  
+- Any figures present on your poster should be clear and easy to read. Avoid “chart-junk” and remove any unnecessary information that does not contribute to your main message/narrative. 
+
+- Complex, multi-panel figures do not work well on a poster; to communicate your points clearly, remove any extraneous information.
+
+- Likewise, not all of the figures or tables produced for your thesis will fit into your poster: you must decide which are the most important/key points to include. 
+  - Do not try to cram in too much information, as it is better to present 2-3 experiments clearly than 10 experiments in a rushed, superficial way.
+
+- All figures need a title and a legend. These should be as concise as possible, and should give enough information for your audience to understand the figure. 
+
+<div id ="goofus-gallant">
+<div id="goofus">
+*Example of a bad poster figure*
+
+
+```{r bad-ex, echo=FALSE, fig.width=5, fig.height=5, fig.cap="Effect of adding antibiotics on beta-galactosidase activity in four reporter strains. ADA110 = AB734 (ibp::lacZ); ADA310 = AB734 (cspA::lacZ); ADA410 = AB734 (P3rpoH::lacZ); ADA510 = AB734 (sulA::lacZ). Antibiotics were added to the cultures for 20 minutes and then beta-galactosidase assays were performed. Amp = Ampicillin, Carb = Carbenicillin, Cm = Chloramphenicol, Nal = Nalidixic acid, Pmx = Polymyxin, Sm = Streptomycin. Controls were water (H2O) or ethanol (EtOH)."}  
+#plot all data
+
+ggplot(bgal,
+       aes(x=Strain, y=Miller.units, fill=Antibiotic)) +
+  geom_boxplot() +
+  labs(y="Beta-galactosidase activity (Miller Units)")
+```
+
+In Figure 2.1, we are looking at all the data from a 96-well plate beta-galactosidase assay. These data are not bad *per se*, but they are not ideal for a poster as currently presented.
+
+- There is a lot of data and it is not clear what the reader should focus on.
+- The reader has to do a lot of work, looking between the figure legend with the genotypes and the full names of the antibiotics, and the figure itself, to understand what is being presented. 
+- The figure legend is quite wordy and takes a long time to read.
+</div>
+
+<div id="gallant">
+*Example of a better poster figure*
+
+```{r better-ex, echo=FALSE, fig.width=5, fig.height=5, fig.cap="Nalidixic acid specifically induces expression of a sulA::lacZ reporter. Antibiotics were added to the cultures for 20 minutes and then beta-galactosidase assays were performed. Amp = Ampicillin, Carb = Carbenicillin, Cm = Chloramphenicol, Nal = Nalidixic acid, Pmx = Polymyxin, Sm = Streptomycin. Controls were water (H2O) or ethanol (EtOH)."}  
+
+#plot ADA510 data
+
+ADA510 <- bgal[73:96, ]
+
+ggplot(ADA510,
+       aes(y=Miller.units, fill=Antibiotic)) +
+  geom_boxplot() +
+theme(axis.text.x=element_blank(),  
+      axis.ticks.x=element_blank()  
+) +
+  labs(y="Beta-galactosidase activity (Miller Units)")
+
+```
+
+In Figure 2.2, we are looking at just a subset of the data from a 96-well plate beta-galactosidase assay. The author has chosen to focus on just one of the *lacZ* reporter strains in order to make a key point that s/he wants the reader to remember: that nalidixic acid specifically induces expression of this reporter.
+
+- There is a lot less data and it is clearer what the reader should focus on (Nal)
+- The reader still has to do a lot of work, looking between the figure legend with the full names of the antibiotics, and the figure itself, to understand what is being presented. 
+
+The figure and legend could be cleaned up to make the presentation even better, but this is an improvement over Figure 2.1. It makes a specific, focussed point instead of trying to cram in all the data that the author has collected during his/her project.
+</div>
+</div>
+
+
+

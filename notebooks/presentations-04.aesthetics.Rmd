@@ -22,6 +22,106 @@ knitr::opts_chunk$set(echo = FALSE)
 - A poster should generally contain a title, list of authors, and several sections presenting the work: introduction, materials and methods, results, conclusions/significance
 </div>
 
+
+
+# Designing Your Poster 
+
+Some general rules to keep in mind when designing your poster:
+
+- Less is more
+  - Everything on your poster *must count* - every single element has to contribute to the overall message you wish to convey. 
+  - Once you have drafted your poster, examine each element on it individually and critically assess whether or not it is *essential* to convey your message to the audience. If it is not essential, it must go.^[Non-essential elements include everything from data that aren't relevant to the points you are making, to cute cartoons that only distract your reader.]
+  - *No one* goes to a poster session at a scientific conference wanting to read a wall of dense text or look at fifty heat-maps. Identify the key points that you want to make, and the data that are important to prove those points, and make them shine by removing all extraneous or distracting items.
+- Narrative flow: make it easy for your audience visually to understand where they should look first, when they first encounter your poster, and in what direction they should move through the sections.
+- As you design your poster, keep your audience in mind (how much do they likely know about the topic already?)
+- Clarity should be the bedrock of your poster presentation – avoid specialist jargon and acronyms, confusing figures, and muddled organisation. 
+
+<div id="note">
+No two scientific posters are the same - each will need slightly different sections and a different layout. The design principles laid out here are general guidelines only - they may be broken, where breaking them leads to more effective communication on your poster.
+</div>
+
+To design your poster, first [Identify the "Take-Home Message"], then [Identify the Content] you want to include on your poster, prepare a [First Draft], and finally [Edit] your poster to prepare the final draft. 
+
+
+
+
+### Text
+
+- Keep text on the poster to a minimum
+  - Use bullet points instead of full sentences
+  - Use figures instead of text (e.g., a diagram showing the steps done in an experiment instead of a written description)
+  - Delete any unnecessary words
+- All text should be large enough to read from several feet away 
+- Use a dyslexia-friendly font like Arial
+  - Use a monospace font like Courier for any nucleotide or protein sequence alignments
+
+
+<div id ="goofus-gallant">
+<div id="goofus">
+*Bad example of a poster text box*
+
+Introduction:
+
+Cell division is a complex process requiring a number of different proteins assembled into the divisome. In *Escherichia coli*, these proteins include FtsZ, ZipA, FtsA, FtsW, FtsN, FtsB, FtsL, FtsQ, FtsI, FtsW, and many other proteins. FtsZ localizes to midcell and this localization is essential for correct positioning of the divisome and eventual construction of the cell division septum. In *Streptomyces*, however, *ftsZ* is not an essential gene. The aim of this work, therefore, is to discover why *ftsZ* is not essential in *Streptomyces* as it is in other bacteria.
+
+</div>
+
+<div id="gallant">
+*Better example of a poster text box*
+
+Cell division in bacteria:
+
+- Divisome: protein complex required for cell division
+- FtsZ needed for correct divisome positioning and septum formation
+  - *ftsZ* essential in *E. coli* but not in *Streptomyces*
+  
+Aim:
+
+- Discover why *ftsZ* is not essential in *Streptomyces*
+</div>
+</div>
+
+
+<center>
+```{r font size, echo=FALSE, fig.cap="Font size on an academic poster. Image credit: [ErrantScience](https://errantscience.com/blog/2016/02/23/how-to-prepare-an-academic-poster-a-terrible-guide-that-no-one-should-follow/)"}
+knitr::include_graphics("images/Legible-poster.png")
+```
+</center>
+
+## Graphic Design
+
+- Make sure there is plenty of white space - do not crowd everything together to fit more in. 
+- Guide the reader's eye to move naturally from one section to another in a logical order. 
+  - It may help to number your sections, or to use arrows to guide the reader's eye.
+- Align your boxes to a grid as much as possible - avoid complicated, messy jumbles that can make your poster feel cluttered and busy.
+- Many posters use a plain coloured background, with white boxes or bubbles outlining the different subsections.
+
+### Image placement
+
+- Consider where you can place elements on your poster (text boxes, figures) for maximum effect. 
+  - You may wish to follow the [Rule of Thirds](https://libguides.uwf.edu/c.php?g=262293&p=6646747), subdividing your poster into three sections each horizontally and vertically. Your audience's attention is naturally drawn to these lines or to their intersections.
+
+<center>
+```{r thirds, echo=FALSE, fig.cap="A diagram illustrating the rule of thirds and highlighting natural attention points on a poster. Image credit: [UWF poster guides](https://libguides.uwf.edu/c.php?g=262293&p=6646747)"}
+knitr::include_graphics("images/rule-of-thirds.jpg")
+```
+</center>
+
+### Colour choices
+
+- Use a clear and consistent colour scheme throughout, ensuring that your colour choices are colour-blind accessible. 
+- Make sure that there is enough contrast between any background colour and the font colour, such that the font is easy to read.
+  - Dark fonts on a pale or white background are easiest to read.
+- Do not use a bewildering array of colours; use 3-5 colours at most, and use them consistently throughout the poster. 
+  - Use contrasting colours to draw your audience's attention to key points.
+- Avoid messy, unnecessarily detailed backgrounds - these only distract from the poster content. 
+- Overall, make sure that you use colour thoughtfully so that it aids in the clarity of your poster.  
+
+
+
+
+
+
 # Introduction
 
 Posters are a common way to communicate science at conferences and other venues. They are often printed on a single large sheet of paper (e.g., A0), but size requirements vary between conferences.

@@ -55,6 +55,7 @@ To design your poster, first [Identify the "Take-Home Message"], then [Identify 
 - Use a dyslexia-friendly font like Arial
   - Use a monospace font like Courier for any nucleotide or protein sequence alignments
 
+Use plenty of white space: large blocks of text are difficult for a reader to parse. 
 
 <div id ="goofus-gallant">
 <div id="goofus">

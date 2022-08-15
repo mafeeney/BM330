@@ -1,0 +1,54 @@
+---
+title: "Giving a Journal Club Presentation"
+author: "Morgan Feeney"
+date: "2022 Presentation"
+output: 
+  bookdown::html_document2:
+    toc: true
+    toc_float:
+      toc_collapsed: false
+    number_sections: true
+    css: "css/rmd_style.css"
+    theme: lumen    
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
+```
+
+<div id="summary">
+- Your poster should tell a clear story about your project, and should serve as an aid for you as a presenter
+- The design should be clear and clean, with the necessary information/key points and "take-home message" easy for your audience to see and understand
+
+</div>
+
+# Introduction
+
+
+# Preparing for your presentation
+
+- Rehearse, rehearse, rehearse! You do not need to memorise your presentation, but you should have a very good idea of what you are going to say on each slide
+- You may find it helpful to write out a "script" for each slide, or use the "notes" space in PowerPoint to plan out what you will say
+- Practice presenting in front of friends/family/colleagues, and note what works well (and what doesn't). Improve your presentation based on their feedback. 
+  - Ask your practice audience to help you anticipate and prepare for questions
+- Practice with using a laser pointer or the mouse to indicate the part of your slide that you're talking about
+- Make sure that your presentation is within the time limit
+- You may find it helpful to record one of your practice presentations - review the recording to identify any areas for improvement
+
+
+# On the day of your presentation
+
+- Have a backup copy of your slides (saved on a thumb drive, e-mailed to you, or on your laptop)
+- Bring a bottle of water
+- Remember to pause and take a deep breath between sentences, and after every slide
+- Make sure you are looking at the audience - don't turn your back to them and face your slides
+- Try to avoid saying "umm" or similar filler words
+- Don't chew gum while presenting
+- Try not to bring your notes or script with you (it will only tempt you to read them instead of speaking to your audience!)
+- Try to project your voice so that your audience at the back of the room can hear you
+
+# Questions
+
+- If you don't understand the question, ask for it to be repeated
+- It is okay to say that you don't know, if you don't know the answer to a question - don't make something up!
+- If the question is about a particular figure or slide, go back through your slide deck to the relevant slide so that your audience can see what you're talking about
+

@@ -2,9 +2,7 @@
 
 Welcome to the BM330 microbiology repository!
 
-This repository contains materials to support workshop sessions on:
-
--Journal club presentations, including: 
+This repository contains materials to support workshop sessions on journal club presentations, including: 
 
 - How to read and analyse a scientific paper
 
@@ -38,4 +36,9 @@ To download and use the materials for this workshop on your own computer, please
 
 The current versions of the notebook HTML pages are linked below, for convenience:
 
-
+[Introduction to Journal Club Presentations](notebooks/presentations-intro.html)
+[Presentations: Content](notebooks/presentations-content.html)
+[Presentations: Data and Figures](notebooks/presentations-figures.html)
+[Presentations: Aesthetics](notebooks/presentations-aesthetics.html)
+[Slide Preparation](notebooks/slide-preparation.html)
+[Delivering your Presentation](notebooks/presentation.html)

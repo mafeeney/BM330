@@ -37,8 +37,14 @@ To download and use the materials for this workshop on your own computer, please
 The current versions of the notebook HTML pages are linked below, for convenience:
 
 [Introduction to Journal Club Presentations](notebooks/presentations-intro.html)
+
 [Presentations: Content](notebooks/presentations-content.html)
+
 [Presentations: Data and Figures](notebooks/presentations-figures.html)
+
 [Presentations: Aesthetics](notebooks/presentations-aesthetics.html)
+
 [Slide Preparation](notebooks/slide-preparation.html)
+
 [Delivering your Presentation](notebooks/presentation.html)
+

@@ -14,7 +14,6 @@ These workshops are presented as part of BM330: Fundamental Microbiology, delive
 
 The material you are viewing relates to the 2022-2023 presentation of the course, and was prepared by:
 
-- [Dr Leighton Pritchard](https://www.strath.ac.uk/staff/pritchardleightondr/)
 - [Dr Morgan Feeney](https://pureportal.strath.ac.uk/en/persons/morgan-feeney)
 
 ------------
@@ -23,10 +22,7 @@ The material you are viewing relates to the 2022-2023 presentation of the course
 
 If you are a student on BM330, you should not *need* to use this repository, but we make it available in the spirit of open science.
 
-As tutors, we use the code and materials in this repository to generate:
-
-1. standalone HTML files that can be used with MyPlace
-2. `Shiny` webapps that can be run by students on their own machines, or at `rstudio.org`
+As tutors, we use the code and materials in this repository to generate standalone HTML files that can be used with MyPlace.
 
 The material is written in `R` using `R Markdown`, and to work with or generate all the materials, we recommend that you install and use `RStudio`.
 
@@ -42,4 +38,4 @@ To download and use the materials for this workshop on your own computer, please
 
 The current versions of the notebook HTML pages are linked below, for convenience:
 
-### Session 1 
+

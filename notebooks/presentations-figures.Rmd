@@ -28,7 +28,7 @@ You have studied your journal club paper in detail and (hopefully!) understood a
 
 Unfortunately, many scientific figures are poorly designed. They are difficult to interpret, confuse the reader, and/or distract from the message that the authors mean to convey.
 
-You are not expected to reanalyse the data from your paper or create new figures for it. In most cases, you will simply use the figures from your paper in your slides - however, you want to make sure that these figures are easy for your audience to read and understand; that you have presented the data in the best and clearest way.
+You are not expected to reanalyse the data from your paper or create new figures for it. In most cases, you will simply use the figures from your paper in your slides. However, you want to make sure that these figures are easy for your audience to read and understand, and that you have presented the data in the best and clearest way.
 
 ```{r 1000words, fig.cap="A picture with a thousand words... [PhD Comics](http://phdcomics.com/comics/archive.php?comicid=1926)"}
 knitr::include_graphics(rep("./images/phd022417s.gif"))
@@ -116,6 +116,7 @@ Consider how the reader will perceive the colours that you are using:
 knitr::include_graphics(rep("./images/colour-choices.jpg"))
 ```
 
+[Read more about colour choices in the section on presentation aesthetics](./presentations-aesthetics.html)
 
 # Text 
 
@@ -136,13 +137,38 @@ knitr::include_graphics(rep("./images/DNaseI-footprint.jpeg"))
 ```
 
 <div id="warning">
-While you may sometimes simplify a figure for the sake of presenting it well, it is essential that your figures still conform to scientific norms of data presentation. 
-- Graph axes should be labelled, including correct scientific units
-- Micrographs should include scale bars
-- Text should be correctly formatted, including:
-  - Gene and protein names correctly formatted
-  - Binomial species names italicized
-  - Correct formatting of any symbols, sub- or super- scripts, etc.
+While you may sometimes simplify a figure for the sake of presenting it well, it is essential that your figures still conform to scientific norms of data presentation. <br>
+Graph axes should be labelled, including correct scientific units<br>
+Micrographs should include scale bars<br>
+Text should be correctly formatted, including:<br>
+  - Gene and protein names correctly formatted<br>
+  - Binomial species names italicized<br>
+  - Correct formatting of any symbols, sub- or super- scripts, etc.<br>
+</div>
+
+# Example of amending a paper figure for journal club presentation
+
+```{r example, fig.cap="Figure example (from a paper) Bardwell JC, Lee JO, Jander G, Martin N, Belin D, Beckwith J. A pathway for disulfide bond formation in vivo. Proc Natl Acad Sci U S A. 1993 Feb 1;90(3):1038-42. doi: 10.1073/pnas.90.3.1038."}
+knitr::include_graphics(rep("./images/paper-fig.PNG"))
+```
+```{r example2, fig.cap="Figure example (modified for journal club presentation)."}
+knitr::include_graphics(rep("./images/slide-fig.PNG"))
+```
+
+In this example, we have taken a multi-panel figure from a paper and chosen to highlight one point as a take-home message (that <i>dsb</i><sup>-</sup> strains are deficient in disulphide bond formation). Note that for other purposes, we might have chosen to focus on other points or take-home messages. 
+
+To focus on the point, we have cropped away the extraneous figure panels, leaving only the data needed to make the point. 
+
+We have relabeled the figure, so that the reader does not need to look back and forth between a legend/key and the figure itself. 
+
+We have added a blobogram next to the y-axis, illustrating what the assay is measuring (OmpA oxidation.)
+
+We have added a title, giving the main result of the experiment and focusing the audience's attention.
+
+To finish modifying this figure for presentation, we might need to add some additional content - perhaps a flow diagram illustrating the method used to measure OmpA oxidation, or a few brief bullet points describing the experiment and the results. 
+
+<div id="note">
+There are multiple ways to modify a paper figure for presentation - the one presented above is just one option! Preparing your presentation will give you an opportunity to develop your own style and preferences.
 </div>
 
 # Further reading on data presentation

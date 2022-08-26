@@ -16,8 +16,9 @@ knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
 ```
 
 <div id="summary">
-- 
-
+- Practice your presentation in advance so that you have a very good idea of what you will say for each slide.
+- Ask friends and colleagues to help you practice and prepare for questions. Implement their feedback to improve your presentation.
+- Be prepared on the day you are scheduled to present, including having a backup copy of your slides with you.
 </div>
 
 # Preparing for your presentation
@@ -34,7 +35,7 @@ knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
 
 - Make sure that your presentation is within the time limit.
 
-- You may find it helpful to record one of your practice presentations - review the recording to identify any areas for improvement
+- You may find it helpful to record one of your practice presentations - review the recording to identify any areas for improvement.
 
 
 # On the day of your presentation
@@ -55,11 +56,11 @@ knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
 
 - Try to project your voice so that your audience at the back of the room can hear you.
 
-# Questions
+# Answering Questions
 
-- If you don't understand the question, ask for it to be repeated
+- If you don't understand the question, ask for it to be repeated.
 
 - It is okay to say that you don't know, if you don't know the answer to a question - don't make something up!
 
-- If the question is about a particular figure or slide, go back through your slide deck to the relevant slide so that your audience can see what you're talking about
+- If the question is about a particular figure or slide, go back through your slide deck to the relevant slide so that your audience can see what you're talking about.
 

@@ -77,16 +77,6 @@ Boiled down to the essentials, your presentation should inform your audience of 
 [Read more about how to make slides for a journal club presentation](./slide-preparation.html)
 
 [Read more about how to deliver a journal club presentation](./presentation.html)
-
-## Preparing for Questions 
-
-- One way of preparing for questions is through your practice presentations - ask the colleagues that you practice with to ask questions.
-- Common types of questions asked after these presentations might include (but are not limited to):
-  - Clarifying questions about the content of your presentation
-  - Questions about the methods used in the paper
-  - Extrapolating questions (how might the findings of this paper apply to other systems/organisms/scenarios?) 
-  - Questions testing your understanding of the underlying biology or microbiology discussed in your paper/presentation
-- A key skill in answering questions is making sure that you have actually answered the question that was asked. Sometimes presenters hear one or two key words/phrases and start constructing an answer based on those, instead of actually answering the question. Listen carefully to the question. If you are not sure you understand it - ask the questioner to repeat it.
   
 
 # Common mistakes we often see in students' journal club presentations (and how to avoid them)

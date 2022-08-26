@@ -137,5 +137,4 @@ knitr::include_graphics(rep("./images/narrative-structure.png"))
   - Includes key results that answer the stated hypothesis/research aims
   - Uses figures or tables that illustrate the key points
   
-
 [Read more about presenting data in a journal club presentation](./presentations-figures.html)

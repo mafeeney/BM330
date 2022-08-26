@@ -19,8 +19,10 @@ knitr::opts_chunk$set(echo = FALSE)
 <div id="summary">
 - A journal club presentation helps to communicate the results of a particular study to an audience 
   - Be sure to identify the take-home message of the paper, and convey this clearly in your presentation
+  - A good presentation tells a story
+- Design your slides to support your presentation of the paper
   - Slides should help the presenter communicate (serve as a visual aid/memory prompt)
-- For each experiment, you should explain the aim, method, result(s), and significance
+  - For each experiment, you should explain the aim, method, result(s), and significance
 </div>
 
 
@@ -74,7 +76,7 @@ knitr::include_graphics(rep("./images/narrative-structure.png"))
 
 ## Slides are a tool for presenting content
 
-- Your slides are there to help you (to support you as you give your presentation). 
+- Your slides are there to help you (to support you as you give your presentation) and to help you communicate to your audience. 
 - Your slides are NOT a copy of the paper in PowerPoint form. You want to avoid copy/pasting figure legends, and using large blocks of text - your audience should be **listening** to you, **not** reading your slides.
 - Therefore, text should be kept at a minimum and figures should be kept simple and clear.
 - You do not want to read your slides word-for-word to your audience: instead, the text on the slides should prompt you (remind you of the points that you want to make).
@@ -132,15 +134,5 @@ knitr::include_graphics(rep("./images/narrative-structure.png"))
   - Includes key results that answer the stated hypothesis/research aims
   - Uses figures or tables that illustrate the key points
   
-[Read more about presenting methods in a journal club presentation](./presentations-methods.html)
+
 [Read more about presenting data in a journal club presentation](./presentations-figures.html)
-
-
-  
-
-
-
-
-
-
-

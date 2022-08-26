@@ -41,8 +41,6 @@ knitr::include_graphics(rep("./images/phd022417s.gif"))
 <div id="note">
 In addition to using figures to present data from your paper, consider using figures in the introduction, materials & methods, and conclusions. 
 
-- A methods figure (a flow chart illustrating the steps done in an experiment) is a concise and clear way of presenting how an experiment was done. [Read more about presenting methods in a journal club presentation](./presentations-methods.html)
-
 - Model figures (e.g., blobograms that illustrate biological pathways) can be concise and clear ways to summarize the state of a field or to illustrate what your paper contributed to our understanding.
 </div>
 
@@ -56,6 +54,7 @@ In addition to using figures to present data from your paper, consider using fig
 - Likewise, not all of the figures or tables from your paper will fit into your talk: you must decide which are the most important/key points to include. (See [our guidelines on the content of a journal club presentation](./presentations-content.html) for more advice on identifying the take-home message and deciding which data to include.)
   - Do not try to cram in too much information, as it is better to present 2-3 experiments clearly than 10 experiments in a rushed, superficial way.
   - Once you have put together your talk and practiced it, check to make sure that you have mentioned every figure/item on your slides. If you haven't mentioned it in your talk, it is probably not important enough to be on your slides!
+  
 
 ## Amending figures for journal club presentations
 
@@ -69,6 +68,19 @@ Do not mislead your audience! The figure should be a faithful representation of 
 Omitting data (such as "outliers"), skewing the axes on a graph, or leaving out key information, can lead your audience to draw incorrect conclusions. Unscrupulous use of colour (highlighting some data to make it more prominent, or making some data appear linked when in fact they are not) can also be very problematic. Always double check your final figure to make certain that it represents the data correctly.
 </div>
 
+## Methods figures
+
+- A methods figure (a flow chart illustrating the steps done in an experiment) is a concise and clear way of presenting how an experiment was done. 
+
+- When describing a method used in your paper, you should give enough information for your audience to understand how the experiment(s) were done.
+
+  - You should give key parameters for the methods done, but do not need to be as detailed as a paper/thesis - your audience needs to understand what was done; they don't need to be able to reproduce the experiment.
+
+<center>
+```{r methods-fig,  out.width="60%", out.height="60%", echo=FALSE, fig.cap="An example of a methods figure (in this case, for Southern blotting [from NIH](https://www.genome.gov/genetics-glossary/Southern-Blot))"}
+knitr::include_graphics("images/southern_blot.jpg")
+```
+</center>
 
 ## Remove distractions
 
@@ -92,7 +104,7 @@ knitr::include_graphics(rep("./images/tracing-eye-movement.png"))
 
 ### Colors
 
-It is very tempting to use colour in scientific figures, and the use of colour can, indeed, help to visualize data. But there are a number of important factors to consider when choosing to use colour in a figure.
+It is very tempting to use colour in scientific figures and in presentations, and the use of colour can, indeed, help to visualize data and communicate with your audience. But there are a number of important factors to consider when choosing to use colour in a figure/on a slide.
 
 Consider how the reader will perceive the colours that you are using: 
 

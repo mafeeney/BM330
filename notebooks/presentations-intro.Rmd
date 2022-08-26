@@ -17,9 +17,9 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 <div id="summary">
-- A 
-  - 
-- A 
+- A summary of some of the issues that you should consider when planning your journal club presentation: content, methods, data presentation, aesthetics, delivering your presentation.
+- Some of the common mistakes we see in journal club presentations, and how to avoid them
+- Suggested additional reading on how to give good presentations
 </div>
 
 # Introduction
@@ -50,10 +50,9 @@ Boiled down to the essentials, your presentation should inform your audience of 
 ### Methods
 
 - You should give enough information for the reader to understand how the experiments were done
-  - Give any key parameters for the methods done, but you do not need to be as detailed as a paper/thesis
-- A good presentation often uses a figure/flow diagram to illustrate the methods
+  - Give any key parameters for the methods done, but you do not need to be as detailed as a paper/thesis: your audience should understand how the experiments were done, they do not need to reproduce them.
+- A good presentation often uses a figure/flow diagram to illustrate the methods, explaining key steps in the process (see the [section on figures](./presentations-figures.html) for an example)
 
-[Read more about presenting methods in a journal club presentation](./presentations-methods.html)
 
 ### Data (Figures and Tables, mostly)
 
@@ -79,22 +78,64 @@ Boiled down to the essentials, your presentation should inform your audience of 
 
 [Read more about how to deliver a journal club presentation](./presentation.html)
 
-## Preparing for Questions and Feedback
+## Preparing for Questions 
 
-- Includes 
+- One way of preparing for questions is through your practice presentations - ask the colleagues that you practice with to ask questions.
+- Common types of questions asked after these presentations might include (but are not limited to):
+  - Clarifying questions about the content of your presentation
+  - Questions about the methods used in the paper
+  - Extrapolating questions (how might the findings of this paper apply to other systems/organisms/scenarios?) 
+  - Questions testing your understanding of the underlying biology or microbiology discussed in your paper/presentation
+- A key skill in answering questions is making sure that you have actually answered the question that was asked. Sometimes presenters hear one or two key words/phrases and start constructing an answer based on those, instead of actually answering the question. Listen carefully to the question, and if you are not sure you understand it - ask the questioner to repeat it.
+  
 
 # Common mistakes we often see in students' journal club presentations (and how to avoid them)
 
-- 
+*Too much content covered*
+
+- Do not try to explain every single experiment presented in the paper - instead, focus on conveying the [take-home message](./presentations-content.html) of the paper.
+
+
+*Separate methods sections*
+
+- Sometimes presenters try to cover all of the methods from a paper in one slide - it is better to weave the methods into the story of the paper, explaining each method just before the experiment that used it. Otherwise your audience will not remember the method by the time you describe that experiment.
+
+
+*Too much text on slides/slides too busy*
+
+- Be ruthless in eliminating content from slides: if you don't mention something when practicing your presentation, remove it from the slides! Also consider using animations to bring items/text onto the slides gradually - that way your audience will be listening to you, instead of reading a whole block of text all presented at once.
+
+
+*Uninformative slide titles*
+
+- Think carefully about what the take-home message of each slide is. The slide title should not be what the purpose of the slide is (i.e., "Introduction") - it should be what you want your audience to remember from that slide (i.e., "Initiation of DNA Replication").
+
+
+*Critical analysis missing/lacking*
+
+- Critical analysis here is not an analysis of the paper's structure, how well written it is, or how much you liked reading it. Critical analysis should be a rigorous analysis of the experiments described in the paper: were the correct controls performed? are there any alternative interpretations of the data? what other methods could the authors have used to address their question?
+
+
+*Historical background/significance lacking*
+
+- Make sure you read the paper carefully, but also read other papers that cite your paper (to measure its impact) or papers that were published before your paper (to understand what was the state of the field at the time).
+
+
+*No clear aim/hypothesis*
+
+- The aim and/or hypothesis may not be explicitly stated in the paper. Read the paper carefully to understand what it was the authors were trying to achieve, and state their aims/hypothesis in your own words. Highlight these during your presentation so that your audience understands why the authors had these particular aims/hypothesis.
+
+*Timing issues (under or over time)*
+
+- Practice, practice, practice! You will often find that your final presentation is a little faster than your practices (you will likely speak a bit faster than usual due to nerves: this is common, and it decreases with practice.) Practice in front of a mirror or your pet, your friends/family/colleagues; use a timer and practice until you can give your presentation in the allocated time. Have a very good idea of what you want to say for each slide so that you don't "ummm" and "ah" when you present.
+
+
 
 
 # FAQ
-
+- There are no FAQ yet as this is a brand new page!
 - Please e-mail Dr. Feeney or Prof. Hoskisson with any questions or with any suggestions for how we can improve these pages.
 
-<div id="note">
-
-</div>
 
 
 # Additional reading

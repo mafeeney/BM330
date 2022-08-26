@@ -16,20 +16,15 @@ knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
 ```
 
 <div id="summary">
-- Your poster should tell a clear story about your project, and should serve as an aid for you as a presenter
-- The design should be clear and clean, with the necessary information/key points and "take-home message" easy for your audience to see and understand
-
+- Y
 </div>
-
-# Introduction
-
 
 
 # How to Prepare your Slides
 
 ## First Draft
 
-Once you have decided what information needs to be included in your talk, you may find it helpful to draw a rough sketch or outline (on paper or electronically) identifying what conttent you will include in each slide.
+Once you have decided what information needs to be included in your talk, you may find it helpful to draw a rough sketch or outline (on paper or electronically) identifying what content you will include in each slide.
 
 
 You can then start assembling the slide deck, adding images and text using the software of your choice. 
@@ -41,32 +36,38 @@ PowerPoint is perhaps the most commonly used software, but you may use any softw
 
 ## Adding Figures and Other Content
 
+- Make sure that any figures you add are 
+
 ### Resolution
 
-
-You want to keep in mind the size your figures will be printed at, and how they will appear at that resolution. The best practice here is to save images as vector files (.svg files) wherever possible, and for bitmaps use a suitable dpi for printing at A0 size, otherwise you can end up with very pixellated/poor quality images.
+- You want to keep in mind the size your figures will be displayed at, and how they will appear at that size/resolution. 
 
 You can convert bitmaps to vector images in Adobe Illustrator/similar.
 
+### Animation
 
-## Editing your poster
 
-Once you have prepared a first draft of your poster, you will need to edit it. Practice presenting your poster in front of friends and/or colleagues, and note what works well (and what doesn't). Improve your poster based on their feedback. 
+## Editing your slides
 
-Things to keep in mind while you are editing your poster: 
+- Once you have prepared a first draft of your slides, you will need to edit it. 
 
-- Remove any text or figures that do not help you present your project 
-- Add any information that was missing (e.g., to answer any questions that your audience asked during your practice presentations)
-- Consider the overall aesthetics of your poster (e.g., is the colour scheme working well, is there enough whitespace, does the reader naturally move through the sections in the intended order?)
+- Practice presenting your slides in front of friends and/or colleagues, and note what works well (and what doesn't). Improve your slides based on their feedback. 
+
+- Things to keep in mind while you are editing your poster: 
+
+  - Remove any text or figures that do not help you present your paper 
+  - Add any information that was missing (e.g., to answer questions that your audience asked during your practice presentations)
+  - Consider the overall aesthetics of your poster (e.g., is the colour scheme working well, is there enough whitespace, does the reader naturally move through the sections in the intended order?)
 
 # Some PowerPoint Tips
-- It can be helpful to group objects 
-- Overly fancy animations or slide transitions are distracting to your audience - keep it simple
-- Edit the "slide master" template 
+
+- It can be helpful to group objects so that you can move them/manipulate them all at once.
+
+- Overly fancy animations or slide transitions are distracting to your audience - keep it simple.
+
+- Edit the "slide master" template to make overall changes to font or style that apply to every slide in your presentation. 
 
 # Additional reading
 
-- [Data visualization: A view of every Points of View column](https://protocolsmethods.springernature.com/posts/43650-data-visualization-a-view-of-every-points-of-view-column) - great tips on data visualization (organised by topic)
-- [UWF Poster Design: Tips for Creating a Successful Poster](https://libguides.uwf.edu/c.php?g=262293&p=6646732)
-- Erren, T. C., & Bourne, P. E. (2007). Ten simple rules for a good poster presentation. PLoS computational biology, 3(5), e102. https://doi.org/10.1371/journal.pcbi.0030102
+
 

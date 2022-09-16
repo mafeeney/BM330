@@ -70,7 +70,7 @@ PowerPoint is perhaps the most commonly used software, but you may use any softw
   
   - Add any information that was missing (e.g., to answer questions that your audience asked during your practice presentations)
   
-  - Consider the overall aesthetics of your poster (e.g., is the colour scheme working well, is there enough whitespace, does the reader naturally move through the sections in the intended order?)
+  - Consider the overall aesthetics of your slides (e.g., is the colour scheme working well, is there enough whitespace, does the audience naturally look at the different areas of the slide in the intended order?)
   
   - Try to consider your slides from your audience's point of view (pretend that you are seeing them for the first time). What elements help you understand the main point? What is distracting/unnecessary? What is missing?
 

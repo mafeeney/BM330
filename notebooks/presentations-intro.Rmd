@@ -29,12 +29,13 @@ This is a companion guide to the BM330 workshop A (Classic Paper Journal Club). 
 # The Anatomy of a Journal Club Presentation
 
 Every talk is different, and all of the classic papers we study in BM330 are different - but every journal club talk should contain the following elements in some form: 
+
 - An explanation of the problem that the authors were trying to solve, and the historical context they were working in (what was known before the authors began this study, and what they were trying to achieve)
 - A description of the work that was done (this should include materials & methods/experimental design, results and conclusions)
 - An explanation of the significance of the work (what other work was made possible because of this paper? how did it change our understanding of microbiology?)
 - Critical analysis of the paper (including, but not limited to: limitations of the experimental design, controls, alternative experimental approaches...)
 
-Boiled down to the essentials, your presentation should inform your audience of why your assigned paper is important; describe the aims/hypothesis of your work, what experiments were done and how, and the overall conclusions/"take-home messages"; and help your audience understand the historical context and significance of the paper.  
+Boiled down to the essentials, your presentation should inform your audience of why your assigned paper is important; describe the aims/hypothesis of your work, what experiments were done and how, and the overall conclusions ("take-home messages"); and help your audience understand the historical context and significance of the paper.  
 
 ## Content
 
@@ -71,7 +72,7 @@ Boiled down to the essentials, your presentation should inform your audience of 
 
 # Preparing slides and delivering a talk
 
-- Probably the most commonly used software for preparing slides is PowerPoint, but alternatives exist (Keynote, Canva, Prezi) - you may use any software you like to prepare your talk.^[If you are using one of the less common software, please make sure to communicate with your workshop leader in advance of your session about the logistics of your presentation.]
+- Probably the most commonly used software for preparing slides is PowerPoint, but alternatives exist (Keynote, Canva, Prezi) - you may use any software you like to prepare your talk.^[If you are using one of the less common software, please make sure to communicate with your workshop leader in advance of your session about the logistics of your presentation, to ensure that you will be able to give your presentation without any technical difficulties.]
 - Your slides should support your presentation. They serve two purposes: 1) to prompt you and help you remember what you want to say, and 2) to help your audience understand your talk. 
 
 [Read more about how to make slides for a journal club presentation](./slide-preparation.html)

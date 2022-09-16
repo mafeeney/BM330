@@ -42,9 +42,18 @@ knitr::include_graphics(rep("./images/phd022417s.gif"))
 In addition to using figures to present data from your paper, consider using figures in the introduction, materials & methods, and conclusions. 
 
 - Model figures (e.g., blobograms that illustrate biological pathways) can be concise and clear ways to summarize the state of a field or to illustrate what your paper contributed to our understanding.
+
+- As with other figures, make sure that any model figures you use are clear and concise, without any extraneous or distracting information. 
+
+- You may be able to find model figures that are appropriate for your presentation in other published papers; or you may choose to make your own, i.e. using PowerPoint or [BioRender](https://biorender.com/).
+
+```{r model, out.width="60%", out.height="60%", fig.cap="An example of a model figure: 'Schematic representation of the linear recruitment pathway of the divisome and a regulation model of the septal synthase subcomplex (FtsW-PBP3-PBP1b) by FtsBLQ, FtsN, and the lipoprotein LpoB.' from Boes et al (2019), https://doi.org/10.1128/mBio.01912-18}"}
+knitr::include_graphics(rep("./images/model-figure.jpeg"))
+```
 </div>
 
-- Consider the best way to present the data (the easiest way for your audience to understand it). 
+<br><br>
+Consider the best way to present the data (the easiest way for your audience to understand it). 
   - Generally speaking, visual representations (images, graphs, etc.) are better than tables or text in a presentation.
   
 - Any figures present in your slides should be clear and easy to read. Avoid “chart-junk” and remove any unnecessary information that does not contribute to your main message/narrative. 

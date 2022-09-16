@@ -34,8 +34,8 @@ Some general rules to keep in mind when designing your slides:
   - Once you have drafted your talk, examine each element in it individually and critically assess whether or not it is *essential* to convey your message to the audience. If it is not essential, it must go.^[Non-essential elements include everything from data that aren't relevant to the points you are making, to cute cartoons that only distract your reader.]
   - No one can sit through a talk and process a wall of dense text or the meaning behind fifty heat-maps. Identify the key points that you want to make, and the data that are important to prove those points, and make them shine by removing all extraneous or distracting items.
 - Narrative flow: make it easy for your audience visually to understand where they should look first, when they first look at your slides, and in what direction they should move through the sections.
-- As you design your poster, keep your audience in mind (how much do they likely know about the topic already?)
-- Clarity should be the bedrock of your poster presentation – avoid specialist jargon and acronyms, confusing figures, and muddled organisation. 
+- As you design your presentation, keep your audience in mind (how much do they likely know about the topic already?)
+- Clarity should be the bedrock of your presentation – avoid specialist jargon and acronyms, confusing figures, and muddled organisation. 
 
 
 ## Graphic Design
@@ -76,6 +76,8 @@ Cell division in bacteria:
 Aim of this paper:
 
 - Discover why *ftsZ* is not essential in *Streptomyces*
+
+(Note that this example could be further improved - especially by the addition of a figure illustrating these key points!)
 </div>
 </div>
 
@@ -92,7 +94,7 @@ Aim of this paper:
 - Use a clear and consistent colour scheme throughout, ensuring that your colour choices are colour-blind accessible. 
 - Make sure that there is enough contrast between any background colour and the font colour, such that the font is easy to read.
   - Dark fonts on a pale or white background are easiest to read.
-- Do not use a bewildering array of colours; use 3-5 colours at most, and use them consistently throughout the poster. 
+- Do not use a bewildering array of colours; use 3-5 colours at most, and use them consistently throughout all of your slides. 
   - Use contrasting colours to draw your audience's attention to key points.
 - Avoid messy, unnecessarily detailed backgrounds - these only distract from the content of your slides.
   - Especially avoid slide backgrounds that have background images that overlap with your slide content - this is very distracting and harder for your audience to read.
@@ -107,7 +109,7 @@ Many software include options to check whether your images are colourblind-acces
 
 ### Colour-blind friendly palettes
 
-- When choosing colour palettes, it is important to keep in mind that your reader may perceive colour differently than you do. Red-green colourblindness is common, but it is important to note that it is not the only form of colourblindness. 
+- When choosing colour palettes, it is important to keep in mind that your reader may perceive colour differently than you do. Red-green colourblindness is common, but it is important to remember that it is not the only form of colourblindness. 
 
 - Unfortunately, red and green are commonly used together in certain types of biological images, perhaps especially in microscopy (e.g., immunofluorescence images) or microarray images. You may also find it intuitive to use a "stoplight" colour theme in some instances (e.g., red for deleted/downregulated and green for duplicated/upregulated genes) - but this is inaccessible to any individuals in the audience who are colourblind.
 

@@ -30,6 +30,7 @@ knitr::opts_chunk$set(echo = FALSE)
 # Identify the "Take-Home Message"
 
 Summarize in 1-3 sentences what it is that you want your audience to remember after hearing your talk.
+
 - Why your assigned paper is important, how it addressed a gap in the literature (discovered something that wasn't known before), how it has revolutionized the field of microbiology or biology as a whole
 - What it is specifically was found in the paper, the main and most important conclusion you can draw from the results
 

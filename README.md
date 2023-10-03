@@ -48,3 +48,4 @@ The current versions of the notebook HTML pages are linked below, for convenienc
 
 [Delivering your Presentation](notebooks/presentation.html)
 
+For BM932 students: [Introduction to BM932 Presentations](notebooks/BM932_presentations-intro.html)
